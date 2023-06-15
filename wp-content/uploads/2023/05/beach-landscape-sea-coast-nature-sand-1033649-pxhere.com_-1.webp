@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en-US">
+   <head>
+      <title>Access denied</title>
+      <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+      <meta name="robots" content="noindex, nofollow" />
+      <meta name="viewport" content="width=device-width,initial-scale=1" />
+      <link rel="stylesheet" href="/cdn-cgi/styles/errors.css" media="screen" />
+      <script>
+(function(){if(document.addEventListener&&window.XMLHttpRequest&&JSON&&JSON.stringify){var e=function(a){var c=document.getElementById("error-feedback-survey"),d=document.getElementById("error-feedback-success"),b=new XMLHttpRequest;a={event:"feedback clicked",properties:{errorCode:1020,helpful:a,version:5}};b.open("POST","https://sparrow.cloudflare.com/api/v1/event");b.setRequestHeader("Content-Type","application/json");b.setRequestHeader("Sparrow-Source-Key","c771f0e4b54944bebf4261d44bd79a1e");
+b.send(JSON.stringify(a));c.classList.add("feedback-hidden");d.classList.remove("feedback-hidden")};document.addEventListener("DOMContentLoaded",function(){var a=document.getElementById("error-feedback"),c=document.getElementById("feedback-button-yes"),d=document.getElementById("feedback-button-no");"classList"in a&&(a.classList.remove("feedback-hidden"),c.addEventListener("click",function(){e(!0)}),d.addEventListener("click",function(){e(!1)}))})}})();
+</script>
+
+      <script>
+      (function(){function d(c){var b=document.getElementById("copy-label"),a=document.getElementById("cf-details-wrapper-expandable");c.target.checked?a.classList.add("expanded"):(a.classList.remove("expanded"),b.innerText="Click to copy")}if(document.addEventListener){var e=function(){var c=document.getElementById("copy-label");var b=document.getElementById("error-details").textContent;if(navigator.clipboard)navigator.clipboard.writeText(b);else{var a=document.createElement("textarea");a.value=b;a.style.top="0";a.style.left="0";a.style.position="fixed";document.body.appendChild(a);a.focus();a.select();document.execCommand("copy");document.body.removeChild(a)}c.innerText="Copied text to clipboard"};document.addEventListener("DOMContentLoaded",function(){var c=document.getElementById("error-details-checkbox"),b=document.getElementById("click-to-copy-btn");document.getElementById("copy-label").classList.remove("hidden");c.addEventListener("change",d);b.addEventListener("click",e)})}})();
+      </script>
+      <script defer src="https://performance.radar.cloudflare.com/beacon.js"></script>
+   </head>
+   <body>
+   <div class="cf-main-wrapper" role="main">
+      <div class="cf-header cf-section">
+         <div class="cf-error-title">
+            <h1>Access denied</h1>
+            <span class="cf-code-label">Error code <span>1020</span></span>
+         </div>
+         <div class="cf-error-description">
+            <p>You do not have access to www.w3.org.</p><p>The site owner may have set restrictions that prevent you from accessing the site.</p>
+         </div>
+      </div>
+   </div>
+
+   <div class="cf-details-wrapper">
+      <div class="cf-section" role="region">
+         <div class="cf-expandable" id="cf-details-wrapper-expandable">
+            <label for="error-details-checkbox" title="Error details" class="cf-expandable-btn">
+               <p class="cf-dropdown-title">Error details</p>
+               <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgBAMAAACBVGfHAAAAElBMVEUAAAAwMDAxMTEyMjIwMDAxMTF+89HTAAAABXRSTlMAf2CAMKS61bwAAABTSURBVCjPzcq7DcAgFENR5zMATfo06TNCViAS+6+CeFi6gglw4eLqaPVtaQpXnkApaQT/k0dw70EAUhCA1AnABGACMAGYAEwAkCOAydv+I5xaZhXWbQrD80TkkQAAAABJRU5ErkJggg=="
+               class="cf-caret-icon" id="caret-icon" alt="Caret icon" />
+            </label>
+
+            <input id="error-details-checkbox" class="hidden" type="checkbox">
+
+            <div class="cf-expandable-error-info hidden">
+               <p class="cf-error-copy-description">Provide the site owner this information.</p>
+               <button class="cf-click-to-copy-btn" id="click-to-copy-btn" title="Click to copy" type="button">
+<div class="cf-error-wrapper" id="error-details"><p class="cf-error-details-endpoint">I got an error when visiting www.w3.org/2000/svg%22%20width=%2224%22%20height=%2224%22%20viewBox=%220%200%2024%2024%22%20fill=%22none%22%20stroke=%22currentColor%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20class=%22icon-fullscreen%22%3E%3Cpath%20d=%22M8%203H5a2%202%200%200%200-2%202v3m18%200V5a2%202%200%200%200-2-2h-3m0%2018h3a2%202%200%200%200%202-2v-3M3%2016v3a2%202%200%200%200%202%202h3%22%3E%3C/path%3E%3C/svg%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2224%22%20height=%2224%22%20viewBox=%220%200%2024%2024%22%20fill=%22none%22%20stroke=%22currentColor%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20class=%22icon-minimize%20hidden%22%3E%3Cpath%20d=%22M8%203v3a2%202%200%200%201-2%202H3m18%200h-3a2%202%200%200%201-2-2V3m0%2018v-3a2%202%200%200%201%202-2h3M3%2016h3a2%202%200%200%201%202%202v3%22%3E%3C/path%3E%3C/svg%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2224%22%20height=%2224%22%20viewBox=%220%200%2024%2024%22%20fill=%22none%22%20stroke=%22currentColor%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20class=%22icon-zoom%22%3E%3Ccircle%20cx=%2211%22%20cy=%2211%22%20r=%228%22%3E%3C/circle%3E%3Cline%20x1=%2221%22%20y1=%2221%22%20x2=%2216.65%22%20y2=%2216.65%22%3E%3C/line%3E%3Cline%20x1=%2211%22%20y1=%228%22%20x2=%2211%22%20y2=%2214%22%3E%3C/line%3E%3Cline%20x1=%228%22%20y1=%2211%22%20x2=%2214%22%20y2=%2211%22%3E%3C/line%3E%3C/svg%3E%3Csvg%20xmlns=%22http://www.w3.org/2000/svg%22%20width=%2224%22%20height=%2224%22%20viewBox=%220%200%2024%2024%22%20fill=%22none%22%20stroke=%22currentColor%22%20stroke-width=%222%22%20stroke-linecap=%22round%22%20stroke-linejoin=%22round%22%20class=%22icon-close%22%3E%3Cline%20x1=%2218%22%20y1=%226%22%20x2=%226%22%20y2=%2218%22%3E%3C/line%3E%3Cline%20x1=%226%22%20y1=%226%22%20x2=%2218%22%20y2=%2218%22%3E%3C/line%3E%3C/svg%3E%3C/div%3E%3C/div%3E%3Cdiv%20class=%22gallery-body%22%3E%3Cdiv%20class=%22images%22%3E%3Cdiv%20id=%22guten-omwmUO%22%20class=%22swiper-container%22%3E%3Cdiv%20class=%22swiper-wrapper%22%3E%3Cdiv%20class=%22swiper-slide%20image-list%22%3E%3Cdiv%20class=%22content-image%20swiper-zoom-container%22%3E%3Cimg%20class=%22main-image%22%20src=%22https://gutenverse.com/travey/wp-content/themes/travey/assets/img/beach-landscape-sea-coast-nature-sand-1033649-pxhere.com.webp?plugin_version=1.8.5.</p>
+
+<p>Error code: 1020</p>
+<p>Ray ID: 7c60dc383d762f0a</p>
+<p>Country: BD</p>
+<p>Data center: sin02</p>
+<p>IP: 103.106.239.50</p>
+<p>Timestamp: 2023-05-12 07:13:38 UTC</p>
+</div>
+                  <p class="cf-copy-label hidden" id="copy-label">Click to copy</p>
+               </button>
+            </div>
+         </div>
+      </div>
+
+      <div class="clearfix cf-footer cf-section" role="contentinfo">
+      <div class="cf-column">
+           <div class="feedback-hidden py-8 text-center" id="error-feedback">
+    <div id="error-feedback-survey" class="footer-line-wrapper">
+        Was this page helpful?
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-yes" type="button">Yes</button>
+        <button class="border border-solid bg-white cf-button cursor-pointer ml-4 px-4 py-2 rounded" id="feedback-button-no" type="button">No</button>
+    </div>
+    <div class="feedback-success feedback-hidden" id="error-feedback-success">
+        Thank you for your feedback!
+    </div>
+</div>
+
+      </div>
+         <div class="cf-column cf-footer-line-wrapper text-center">
+            <p>
+               Performance &amp; security by <a rel="noopener noreferrer" href="https://www.cloudflare.com?utm_source=1020_error" target="_blank">Cloudflare <img class="external-link" title="Opens in new tab" src="/cdn-cgi/images/external.png" alt="External link"></a>
+            </p>
+         </div>
+      </div>
+   </div>
+</body>
+</html>
